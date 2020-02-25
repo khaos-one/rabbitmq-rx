@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMqRx", "src\RabbitMqRx\RabbitMqRx.csproj", "{E6503C86-AC66-4EDC-B020-3CCC61E7AF78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMqRx.Sandbox.App", "src\RabbitMqRx.Sandbox.App\RabbitMqRx.Sandbox.App.csproj", "{ECAE375F-8656-429F-BCAF-628E207BD67C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6503C86-AC66-4EDC-B020-3CCC61E7AF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6503C86-AC66-4EDC-B020-3CCC61E7AF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6503C86-AC66-4EDC-B020-3CCC61E7AF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6503C86-AC66-4EDC-B020-3CCC61E7AF78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECAE375F-8656-429F-BCAF-628E207BD67C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECAE375F-8656-429F-BCAF-628E207BD67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECAE375F-8656-429F-BCAF-628E207BD67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECAE375F-8656-429F-BCAF-628E207BD67C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
